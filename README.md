@@ -31,6 +31,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 ## Contact
 
 You can contact me via [trainer.andrue@gmail.com](mailto:trainer.andrue@gmail.com)
-Check out my [github](https://github.com/AndrueGage) for more project. 
+Check out my [github](https://github.com/AndrueGage) for more projects. 
 
 
