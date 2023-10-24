@@ -10,8 +10,8 @@ Refactored the index.html to be semantic with good structure. Alt tags have been
 - [Contact](#contact)
   
 ## Preview
-Click here to view [full site]( https://andruegage.github.io/horiseon-challenge) 
 ![image](https://github.com/AndrueGage/horiseon-challenge/assets/147120878/393e5fe3-89a0-42bd-8932-6c93473541b4)
+Click here to view the [full site]( https://andruegage.github.io/horiseon-challenge) 
 
 
 
