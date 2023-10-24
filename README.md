@@ -10,6 +10,7 @@ Refactored the index.html to be semantic with good structure. Alt tags have been
 - [Contact](#contact)
 
 ## Preview
+![image](https://github.com/AndrueGage/horiseon-challenge/assets/147120878/393e5fe3-89a0-42bd-8932-6c93473541b4)
 
 
 
@@ -30,6 +31,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 ## Contact
 
 You can contact me via [trainer.andrue@gmail.com](mailto:trainer.andrue@gmail.com)
-Check out my [github](https://github.com/AndrueGage) for more project. 
+Check out my [github](https://github.com/AndrueGage) for more projects. 
 
 
